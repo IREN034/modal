@@ -1,3 +1,9 @@
+styled-components 和 react-modal 和 electron
+
+參考: https://www.npmjs.com/package/react-modal
+參考: http://reactcommunity.org/react-modal/
+參考: hhttps://styled-components.com/
+
 This project was bootstrapped with [electron](https://www.npmjs.com/package/electron).
 
 參考: https://blog.csdn.net/css_aaa/article/details/101944177
